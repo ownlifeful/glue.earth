@@ -1,0 +1,7 @@
+
+# Include Files From All Robots:
+
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+
